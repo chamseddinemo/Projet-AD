@@ -11,7 +11,7 @@ Appliquer des restrictions utilisateurs et renforcer la sécurité.
 ### ❌ Désactivation CMD
 - Bloquer l'accès à l'invite de commande
 
-![Disable CMD](../Captures%20d%27écran/gpo/disable-cmd.png)
+![Disable CMD](../Captures%20d%27écran/gpo/désactiver-cmd.png.png)
 
 ---
 
