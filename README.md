@@ -133,18 +133,3 @@ Ce lab simule des tâches quotidiennes :
 - DHCP / IP issues
 
 ---
-
-## 🚀 Objectif
-
-Projet conçu pour :
-
-- CV technicien informatique
-- Portfolio GitHub
-- Entrevue Help Desk
-
----
-
-## 👤 Auteur
-
-Technicien informatique orienté support et systèmes  
-Passionné par les environnements entreprise (AD, GPO, réseau)

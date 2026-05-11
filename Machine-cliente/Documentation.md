@@ -10,7 +10,13 @@ Intégrer un poste client dans le domaine.
 - Machine : PC01
 - Domaine : rev.local
 
-![Domain Join](../Captures d'écran/client/domain-join.png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(560).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(561).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(562).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(563).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(564).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(565).png)
+
 
 ---
 
@@ -23,6 +29,14 @@ Intégrer un poste client dans le domaine.
 ---
 
 ## 🧠 Résultat
+
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(571).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(572).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(573).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(574).png)
+![Domain Join](./Captures/REJOINDRE_REV.LOCAL/Capture%20d’écran%20(575).png)
+
+
 
 - Gestion centralisée
 - Accès IT facilité

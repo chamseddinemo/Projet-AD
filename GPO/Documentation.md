@@ -11,8 +11,6 @@ Appliquer des restrictions utilisateurs et renforcer la sécurité.
 ### ❌ Désactivation CMD
 - Bloquer l'accès à l'invite de commande
 
-![Disable CMD](./disable-cmd.png.png)
-
 ---
 
 ### ❌ Désactivation Panneau de configuration
@@ -22,11 +20,12 @@ Appliquer des restrictions utilisateurs et renforcer la sécurité.
 - Désactiver les clés USB pour les utilisateurs
 - Exception pour IT-Group
 
-![Disable Control Panel](../Captures%20d%27écran/gpo/disable-control-panel.png)
-
 ---
 
 ## Résultat
+
+![GPOs](./GPOs.gif)
+
 
 - Environnement sécurisé
 - Moins de risques utilisateurs
