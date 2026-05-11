@@ -36,7 +36,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ## 🗂️ Documentation
 
 ### 🔵 Active Directory
-➡️ [Voir la documentation](./01-Active-Directory/documentation1)
+➡️ [Voir la documentation](./Active%20Directory/documentation.md)
 
 - Structure OU
 - Création des utilisateurs
@@ -45,7 +45,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 🟣 GPO (Group Policy)
-➡️ [Voir la documentation](./02-GPO/security-policies.md)
+➡️ [Voir la documentation](./GPO/Documentation.md)
 
 - Restrictions utilisateurs
 - Désactivation CMD / Control Panel
@@ -54,7 +54,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 🌐 Réseau
-➡️ [Voir la documentation](./03-Network/dhcp.md)
+➡️ [Voir la documentation](./Réseau/Documentation.md)
 
 - DHCP (scope + exclusions)
 - DNS (load balancing)
@@ -62,7 +62,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 📁 File Server
-➡️ [Voir la documentation](./04-File-Server/shared-folders.md)
+➡️ [Voir la documentation](./Serveur-de-fichiers/Documentation.md)
 
 - Dossiers partagés
 - Map drive (Public / HR)
@@ -71,7 +71,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 💻 Client Machine
-➡️ [Voir la documentation](./05-Client-Machine/domain-join.md)
+➡️ [Voir la documentation](./Machine-cliente/Documentation.md)
 
 - Jointure domaine
 - Ajout admin local
@@ -79,7 +79,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 🔐 Sécurité
-➡️ [Voir la documentation](./06-Security/account-lockout.md)
+➡️ [Voir la documentation](./Sécurité/Documentation.md)
 
 - Password policy
 - Account lockout

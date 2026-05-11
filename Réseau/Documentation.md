@@ -12,7 +12,24 @@ Configurer DHCP et DNS pour un environnement entreprise.
 - Exclusion : 192.168.1.80 → 85
 - Réservation : 192.168.1.200 (client)
 
-![DHCP Scope](../Captures d'écran/reseau/dhcp-scope.png)
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(541).png)  
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(542).png)  
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(543).png)
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(544).png)  
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(545).png)  
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(546).png)  
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(547).png) 
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(548).png)  
+
+![DHCP Scope](./Captures/DHCP/Capture%20d’écran%20(549).png)  
+
 
 ---
 
@@ -23,7 +40,8 @@ Configurer DHCP et DNS pour un environnement entreprise.
   - 192.168.1.8
   - 192.168.1.9
 
-![DNS](../Captures d'écran/reseau/dns.png)
+configuration qui a etait faite :
+
 
 ---
 

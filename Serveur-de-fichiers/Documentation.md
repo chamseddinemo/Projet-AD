@@ -14,24 +14,19 @@ Gérer les accès aux fichiers et partages réseau.
   - Modifier
   - ❌ Supprimer interdit
 
-![HR Share](../Captures d'écran/fileserver/hr-share.png)
-
----
-
 ## 🔗 Lecteur réseau
 
 ### Public
 - Accessible à tous
 - Permissions complètes
 
-![Public Drive](../Captures d'écran/fileserver/public-drive.png)
-
----
-
 ### HR (H:)
 - Assigné aux utilisateurs RH
 
-![HR Drive](../Captures d'écran/fileserver/hr-drive.png)
+
+## Résultat
+
+![HR Share](./MAP-DRIVE.gif)
 
 ---
 
@@ -39,11 +34,12 @@ Gérer les accès aux fichiers et partages réseau.
 
 - Limite : 2GB par utilisateur
 
-![Quota](../Captures d'écran/fileserver/quota.png)
+## Résultat
+
+![Quota](./MAP-DRIVE.gif)
 
 ---
 
-## 🧠 Résultat
-
+## Résultat Vise:
 - Données sécurisées
 - Gestion des accès efficace

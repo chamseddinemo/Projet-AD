@@ -1,6 +1,6 @@
 # 🔐 Sécurité
 
-## 🎯 Objectif
+## Objectif
 Renforcer la sécurité des comptes et systèmes.
 
 ---
@@ -12,16 +12,12 @@ Renforcer la sécurité des comptes et systèmes.
 - Expiration : 60 jours
 - Historique : 3 mots de passe
 
-![Password Policy](../Captures d'écran/securite/password-policy.png)
-
 ---
 
 ## 🚫 Verrouillage compte
 
 - 5 tentatives échouées
 - Blocage : 30 minutes
-
-![Lockout](../Captures d'écran/securite/lockout.png)
 
 ---
 
@@ -30,11 +26,8 @@ Renforcer la sécurité des comptes et systèmes.
 - Blocage des fichiers .exe
 - Empêche installation non autorisée
 
-![EXE Block](../Captures d'écran/securite/exe-block.png)
-
 ---
 
 ## 🧠 Résultat
 
-- Sécurité renforcée
-- Protection contre erreurs utilisateurs
+![Password Policy](./MOT%20DE%20PASSE.gif)

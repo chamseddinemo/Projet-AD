@@ -10,8 +10,8 @@ Créer une infrastructure AD complète.
 - HR
 - Sales
 - IT
-
-![OU](../Captures d'écran/active-directory/ou.png)
+- TR
+- Finance
 
 ---
 
@@ -19,9 +19,14 @@ Créer une infrastructure AD complète.
 
 - Création par département
 
-![Users](../Captures d'écran/active-directory/users.png)
+## Résultat
+
+![OU](./OUS.gif)
+
 
 ---
+
+## Résultat
 
 ## 🔐 Groupes
 
@@ -29,11 +34,6 @@ Créer une infrastructure AD complète.
 - IT-Group
 - Sales-Group
 
-![Groups](../Captures d'écran/active-directory/groups.png)
+![Groups](./ADD-User-To-Group.gif)
 
 ---
-
-## 🧠 Résultat
-
-- Organisation claire
-- Gestion simplifiée

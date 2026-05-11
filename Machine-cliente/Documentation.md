@@ -7,7 +7,7 @@ Intégrer un poste client dans le domaine.
 
 ## 🔗 Jointure domaine
 
-- Machine : HRPC01
+- Machine : PC01
 - Domaine : rev.local
 
 ![Domain Join](../Captures d'écran/client/domain-join.png)
