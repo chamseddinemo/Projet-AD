@@ -12,12 +12,17 @@ Renforcer la sécurité des comptes et systèmes.
 - Expiration : 60 jours
 - Historique : 3 mots de passe
 
+![Password Policy](./MTP/1.png)
+![Password Policy](./MTP/2.png)
+
 ---
 
 ## 🚫 Verrouillage compte
 
 - 5 tentatives échouées
 - Blocage : 30 minutes
+
+![Verouiller-compte Policy](./Verouiller-compte/1.png)
 
 ---
 
@@ -30,4 +35,4 @@ Renforcer la sécurité des comptes et systèmes.
 
 ## 🧠 Résultat
 
-![Password Policy](./MOT%20DE%20PASSE.gif)
+![Password Policy](./MTP/3.png)
