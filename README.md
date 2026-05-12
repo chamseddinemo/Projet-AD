@@ -1,15 +1,10 @@
-# PREV ENTERPRISE
-
 # 🏢 REV ENTERPRISE LAB —
-
 ---
-
 ## 📋 Description
 
 Ce projet simule un environnement d’entreprise complet basé sur **Active Directory**.
 
-Objectif : démontrer des compétences réelles de technicien Help Desk / Support TI :
-
+Objectif : démontrer des compétences dans:
 - Gestion des utilisateurs et groupes
 - Administration Active Directory
 - Configuration GPO
@@ -26,8 +21,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 | Domaine       | rev.local        |
 | Serveur       | PDC              |
 | IP Serveur    | 192.168.1.X      |
-| Client        | HRPC01           |
-| OS            | Windows Server / Windows 10 |
+| Client        | PC01           |
 
 ---
 
@@ -119,8 +113,8 @@ Captures visuelles & Gif du Projet :
 
 ## 🔥 Cas réel Help Desk
 
-Ce lab simule des tâches quotidiennes :
-
+Ce Projet simule des tâches quotidiennes :
+- Gestion Utulisateur/Groups/OUs Manuel + Automatique
 - Reset password
 - Gestion accès utilisateur
 - Troubleshooting GPO
