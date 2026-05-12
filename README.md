@@ -43,7 +43,7 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 🟣 GPO (Group Policy)
-➡️ [Voir la documentation](./GPO/Documentation.md)
+➡️ [Voir la documentation](./GPO/documentation.md)
 
 - Restrictions utilisateurs
 - Désactivation CMD / Control Panel
