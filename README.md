@@ -1,8 +1,6 @@
 # PREV ENTERPRISE
-Projet AD_REV ENTERPRISE_
 
-
-# 🏢 REV ENTERPRISE LAB — Help Desk Project
+# 🏢 REV ENTERPRISE LAB — 
 
 ---
 
@@ -88,15 +86,14 @@ Objectif : démontrer des compétences réelles de technicien Help Desk / Suppor
 ---
 
 ### 📸 Screenshots
-➡️ [Voir les captures](./07-Screenshots/)
-
-Preuves visuelles du lab :
+Captures visuelles & Gif du Projet :
 
 - Active Directory
 - GPO
 - DHCP / DNS
 - Partages réseau
 - Poste client
+- Automatisation
 
 ---
 
@@ -105,7 +102,7 @@ Preuves visuelles du lab :
 ✔ Domaine Active Directory (rev.local)  
 ✔ OU par département (HR, Sales, IT)  
 ✔ Utilisateurs + groupes  
-✔ Machine Windows 10 join au domaine  
+✔ Machine Windows join au domaine  
 ✔ IT-Group ajouté admin local  
 ✔ GPO restrictions utilisateurs  
 ✔ Blocage CMD / Control Panel  

@@ -24,7 +24,7 @@ Intégrer un poste client dans le domaine.
 
 - Groupe IT-Group ajouté comme administrateur local
 
-![Local Admin](../Captures d'écran/client/local-admin.png)
+![Local Admin](./Captures/Local_AdminV.LOCAL/Capture%20d’écran%20(599).png)
 
 ---
 
